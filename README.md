@@ -1,6 +1,6 @@
 # ETL project
 
-![eTL_img.jpeg](https://github.com/amylbrunet/ETL_Project/blob/main/ETL_img.jpeg)
+![eTL_img.jpeg](https://github.com/PeiDay/Education_ETL/blob/main/ETL_img.jpeg)
 
 ### Extract
 Our team wanted to continue our research and analysis on the factors that influence student achievement. In our search, we found three datasets from the years 2013, 2015, and 2017 on poverty rates and median house income in each of the 50 states across varying age groups. We decided to use the three datasets we found for this project in conjunction with one of our data sets from our last project, which encompasses average math and reading scores for students in each of the 50 states over a span of several years.
